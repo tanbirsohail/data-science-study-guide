@@ -9,3 +9,10 @@ The two courses in fast AI about deep learning are among the top courses you fin
 
 You will learn a lot. Also fast.ai has some really great blog posts and articles and general resource links. So make sure to visit it frequently.
 
+# ai.google courses
+Google has some pretty awesome beginner friendly courses, associated with its Colab platform, which is a online Jupyter Notebook style platform with GPU core available for tensorflow and keras. It is pretty awesome and totally free for educational purposes. Check it out at https://colab.research.google.com/.
+
+These are very helpful beginner friendly courses that you should be able to finish in 1 week.
+Some of the free courses available at https://ai.google/research.
+* Machine Learning Crash Course : https://developers.google.com/machine-learning/crash-course/
+* Machine Learning Practicum : https://developers.google.com/machine-learning/practica/image-classification/
