@@ -8,13 +8,13 @@ https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
 
 Additionally, I have decided to include Books, Journals, Papers, Podcasts and Study Materials as well that I have found to be helpful.
 
-I am eventually looking forward to completing one or two Nanodegrees from Udacity in the upcoming months. More updates on those.
+I am eventually looking forward to completing Udacity Machine Learning Nanodegree and fast.ai Deep Learning courses in the upcoming months. More updates on those.
 
 A big thanks to Siraj Raval for his ideas and inspirations. 
 
 # Materials
 I have decided to segragate based on sources rather than segregating based on contents.
-The following pages will have the required materials courses.
+The following pages will have the useful materials and resource links. Once I complete my courses, I will include a full fledged opitimal path that will help in reaching the proficiency to take part in Kaggle competitons and implement Machine Learning Projects.
 
 * Free courses
 * Paid courses
