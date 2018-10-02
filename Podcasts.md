@@ -15,3 +15,11 @@ A good series of episodes highlighting the path to become a data scientist.
 ## Future Tense
 
 ## The Vergecast
+
+## Google Cloud Platform Podcast
+
+
+## Behind the Tech with Kevin Scott
+
+
+## talk Python to Me
