@@ -7,6 +7,9 @@ Here is a list of sites you should visit regularly to stay updated on the latest
 ### Google's AI Reasearch publications
 [Link](https://ai.google/research/pubs) Google's AI research publication site for research papers.
 
+### Fast.ai blog
+[Link](http://www.fast.ai/topics/) Contains a curated list of articles and papers. Also some great resources, discussions and advice for learners by the founders of Fast.ai.
+
 ### Nvidia's AI publications
 [Link](https://research.nvidia.com/research-area/machine-learning-artificial-intelligence) List of ML and AI research papers by Nvidia research teams.
 
@@ -15,3 +18,4 @@ Here is a list of sites you should visit regularly to stay updated on the latest
 
 ### Facebook research publications
 [Link](https://research.fb.com/publications) Facebook's research publications contain a plethora of cutting edge research papers on AI and Deep Learning.
+
