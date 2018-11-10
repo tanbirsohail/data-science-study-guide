@@ -1,5 +1,7 @@
 # Tools
-Here I include some of the tools and website for learning and practicing machine learning online
+Here I include some of the tools and website for learning and practicing machine learning and data science online.
+
+
 
 ## Google Colab
 
@@ -13,3 +15,7 @@ If you need pacakages and repos, you can provide requirements.txt and binder wil
 ## Tensorflow Playground
 
 [Link](https://playground.tensorflow.org/) Lets you experiement with neural network and visualize activities when neurons fire in a very beautiful toolkit. After you have learnt the basics, you should come and experiment here to solidify your concepts.
+
+## Kaggle
+
+[Link](https://www.kaggle.com/) Yes, this is the heaven for data science. The first place you should have your profile if you are serious about data science. This is the place where you do real world data science and compete with the best data scientists in the world.
