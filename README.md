@@ -1,4 +1,4 @@
-# data-science-study-guide
+# Data Science Study Guide
 Data Science Study Resources, materials and useful info found in my learning journey in the field of Data Science.
 
 Getting Started: This study guide will contain all courses related to AI and ML.
@@ -23,3 +23,4 @@ The following pages will have the useful materials and resource links. Once I co
 * Podcasts
 * Journals and Papers
 * Tools
+* Meta-Resources
