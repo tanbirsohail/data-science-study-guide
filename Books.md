@@ -14,3 +14,11 @@ I liked the simple hands on approach and easy to follow excercises. Although Ten
 ### Data Science from Scratch by _Joel Grus_
 
 Joel Grus's book is one of the best introductory textbooks on Data Science covering an introduction to python programming and also all essential concepts of machine learning and data science. This is a good refresher/reference book of the fundamentals of data science for  intermidate learners as well.
+
+### The Deeplearning Book by _Ian Goodfellow_ [link](http://www.deeplearningbook.org/)
+
+This is one of the best books on deep learning for beginners as well as experienced engineers. Pair it with Joel Grus' book and you have the bases covered. The link is for the online version of the book.
+
+### Mathematics for Machine Learning by _Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong_ [link](https://mml-book.github.io/)
+
+A great book to revise the basics of mathematics and essential math concepts needed for Machine Learning. The link is for the github repo for the book.
